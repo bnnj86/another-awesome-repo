@@ -1,2 +1,23 @@
 # another-awesome-repo
-another awesome repo, to become awesome developer :) 
+
+another awesome repo, to become awesome developer :)
+
+---
+
+### Why?
+
+- 각자 자유롭게 공부하되, 서로의 결과물을 리뷰하며 공유하기 위한 곳
+
+### How?
+
+- 2주 혹은 한달에 한번 주제 선정
+
+- 그 주제애 대한 실행 가능한 미니 앱 제작
+
+- 어떤 개념이 어떻게 미니 앱에 적용 되었는지, 각 파일 별 마크다운 문서 작성
+
+- 1주에 1번 혹은 2번 서로 코드리뷰 해주기 (비동기적)
+
+### 여담
+
+- (가능하면) 간단한 토론회도 있으면 좋을듯
